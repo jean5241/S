@@ -196,23 +196,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bryan\\.nuget\\packages\\": {},
+    "C:\\Users\\asus\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\S\\Seguimiento\\LogicadeNegocio\\LogicadeNegocio.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Documents\\GitHub\\S\\Seguimiento\\LogicadeNegocio\\LogicadeNegocio.csproj",
       "projectName": "LogicadeNegocio",
-      "projectPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\S\\Seguimiento\\LogicadeNegocio\\LogicadeNegocio.csproj",
-      "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\S\\Seguimiento\\LogicadeNegocio\\obj\\",
+      "projectPath": "C:\\Users\\asus\\Documents\\GitHub\\S\\Seguimiento\\LogicadeNegocio\\LogicadeNegocio.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asus\\Documents\\GitHub\\S\\Seguimiento\\LogicadeNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -225,8 +225,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\S\\Seguimiento\\AccesoDatos\\AccesoDatos.csproj": {
-              "projectPath": "C:\\Users\\bryan\\OneDrive\\Documentos\\GitHub\\S\\Seguimiento\\AccesoDatos\\AccesoDatos.csproj"
+            "C:\\Users\\asus\\Documents\\GitHub\\S\\Seguimiento\\AccesoDatos\\AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\asus\\Documents\\GitHub\\S\\Seguimiento\\AccesoDatos\\AccesoDatos.csproj"
             }
           }
         }
