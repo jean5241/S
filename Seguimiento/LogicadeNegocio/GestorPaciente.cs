@@ -18,7 +18,7 @@ namespace LogicaDeNegocio
                 Paciente = obj1.MostrarPaciente1(nombre);
                 return Paciente;
             }
-
+            //Muestra el paciente por cedula y nombre
             public string MostrarPaciente(int cedula, string nombre)
             {
                 string Paciente;
