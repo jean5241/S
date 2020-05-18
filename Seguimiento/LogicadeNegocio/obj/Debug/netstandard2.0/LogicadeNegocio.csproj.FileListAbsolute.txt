@@ -1,0 +1,4 @@
+E:\Datos_User\Documents\GitHub\S\Seguimiento\LogicadeNegocio\bin\Debug\netstandard2.0\LogicadeNegocio.deps.json
+E:\Datos_User\Documents\GitHub\S\Seguimiento\LogicadeNegocio\bin\Debug\netstandard2.0\LogicadeNegocio.dll
+E:\Datos_User\Documents\GitHub\S\Seguimiento\LogicadeNegocio\obj\Debug\netstandard2.0\LogicadeNegocio.AssemblyInfoInputs.cache
+E:\Datos_User\Documents\GitHub\S\Seguimiento\LogicadeNegocio\obj\Debug\netstandard2.0\LogicadeNegocio.AssemblyInfo.cs

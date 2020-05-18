@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5dIYebwktj5lG51ocdVRPxcR8pnlMcqpTM6DIzcZ2eUtFqh/gdZ2KqXBINEUfFYlgMwcN5ck5rCRleF16W3p7g==",
+  "dgSpecHash": "jTcWYC7OAh7+qx/2N635MLeLwOuavve3y4ACi7z/83aMoneupAlKGk4CimeRku9eY64QvlK6skGLQrGzL47HJg==",
   "success": true,
   "projectFilePath": "E:\\Datos_User\\Documents\\GitHub\\S\\Seguimiento\\AccesoDatos\\AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniela\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Daniela\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Daniela\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Daniela\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

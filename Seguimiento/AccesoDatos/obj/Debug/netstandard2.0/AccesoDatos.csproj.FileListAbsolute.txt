@@ -1,0 +1,5 @@
+E:\Datos_User\Documents\GitHub\S\Seguimiento\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+E:\Datos_User\Documents\GitHub\S\Seguimiento\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+E:\Datos_User\Documents\GitHub\S\Seguimiento\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csprojAssemblyReference.cache
+E:\Datos_User\Documents\GitHub\S\Seguimiento\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+E:\Datos_User\Documents\GitHub\S\Seguimiento\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
